@@ -1,6 +1,6 @@
 ﻿---
 name: ketangpai-auto-answer
-description: Automatically answer quiz questions on ketangpai.com. Use when the user wants to auto-answer quizzes on ketangpai: extracting questions, determining answers, selecting options, handling multi-select, submitting. Covers Chrome control, DOM parsing, CUA element clicking, and submission confirmation.
+description: Automate answering quiz questions on ketangpai.com from an existing logged-in Chrome session. Use when Codex needs to extract all questions first, derive an answer key, compare current selections against target answers, click only the mismatched radio or checkbox options, wait for save confirmation toasts, re-check answers, and submit the quiz safely.
 ---
 
 # Ketangpai Auto Answer
