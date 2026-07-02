@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ketangpai Auto Answer"
+  short_description: "Answer quiz questions on ketangpai.com via Chrome automation"
+  default_prompt: "Answer all questions in this ketangpai quiz"
