@@ -1,4 +1,4 @@
 interface:
   display_name: "Ketangpai Auto Answer"
   short_description: "Answer quiz questions on ketangpai.com via Chrome automation"
-  default_prompt: "Answer all questions in this ketangpai quiz"
+  default_prompt: "Use $ketangpai-auto-answer to extract all questions from this ketangpai quiz, derive answers, reconcile current selections, and submit after a final review."
